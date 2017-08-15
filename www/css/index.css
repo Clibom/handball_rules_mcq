@@ -1,19 +1,17 @@
 
 
-#answer_div {
-  padding-top: 20px;
+.answer_div {
+  margin-top: 25px;
 }
 
-#answer_button_pair {
-    margin-top: 10px;
-    text-align: center;
-}
-
-#answer_button_impair {
-    text-align: center;
+.answer_button_first {
     margin-bottom: 10px;
 }
 
-#validate_button {
-   	text-align: center;
+.answer_button_next {
+    margin-top: 10px;
+}
+
+.validate_div {
+  	margin-top: 25px;
 }
