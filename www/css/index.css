@@ -6,13 +6,14 @@
 
 #answer_button_pair {
     margin-top: 10px;
+    text-align: center;
 }
 
 #answer_button_impair {
+    text-align: center;
     margin-bottom: 10px;
 }
 
 #validate_button {
-    position : absolute;
-    margin-left : 82px;
+   	text-align: center;
 }
